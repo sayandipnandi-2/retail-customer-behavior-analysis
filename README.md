@@ -42,11 +42,11 @@ retail-customer-behavior-analysis/
 - **Lift:** how much more likely B is bought with A than by chance
 
 ## 📊 Sample Output
-| Rule | Support | Confidence | Lift |
-|---|---|---|---|
-| _Item A → Item B_ | _value_ | _value_ | _value_ |
 
-_Add your charts here:_ `![Top Items](images/top_items.png)`
+### Top 10 most frequently purchased items
+![Top 10 Most Frequently Purchased Items](outputs/top_items.png)
+
+Whole milk is the most frequently purchased item, appearing in roughly a quarter of all transactions, followed by other vegetables, rolls/buns, soda and yogurt.
 
 ## 🚀 Getting Started
 ```bash
